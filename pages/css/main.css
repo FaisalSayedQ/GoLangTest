@@ -1,0 +1,9 @@
+main {
+    padding: 10px;
+}
+
+.curr-convert input, .curr-convert select {
+    width: 48%;
+    display: inline-block;
+    margin: 5px 0;
+}
